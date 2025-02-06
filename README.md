@@ -19,9 +19,9 @@
 - ⚡ Helping Others & Sharing Knowledge 
 
 ## Connect with Me 🌐
-- **LinkedIn:** [dhurgham-ali](https://www.linkedin.com/in/dhurgham-ali-000377325/)
-- GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
-- Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+-  LinkedIn: (https://www.linkedin.com/in/dhurgham-ali-000377325/)
+-  GitHub:   [github.com/Dargham-ali]
+-  Portfolio:[yourwebsite.com](https://yourwebsite.com)
 
 ## Let's Collaborate! 🤝
 I'm open to new opportunities, collaborations, and discussions. If you're working on something exciting,
