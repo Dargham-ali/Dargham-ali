@@ -1,13 +1,7 @@
 <h1>Hi 👋, I'm Dargham Ali</h1>
-<h3>Associate Director of Platform Engineering <a href="https://10up.com/" target="blank">@10up</a></h3>
-
-- 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/)
-- 👯 I’m looking to collaborate on [WordPress](https://github.com/WordPress/wordpress-develop/)
-- 🤝 I’m looking for help with [Contact Form 7 - Repeatable Fields](https://github.com/felipeelia/cf7-repeatable-fields)
-- 📝 I regularly write articles on [https://felipeelia.dev/](https://felipeelia.dev/)
-- 💬 Ask me about **WordPress, PHP, and Career**
-- 📫 How to reach me **https://felipeelia.dev/contact/**
-- ⚡ Fun fact **[I ❤️ 🎮](https://www.exophase.com/user/JediDeChinelo/)**
+<!-- - 🔭 I’m currently working on [ElasticPress](https://github.com/10up/ElasticPress/) -->
+<!-- - 📫 How to reach me **https://felipeelia.dev/contact/** -->
+- ⚡ Fun fact **[I ❤️ 🎮]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
