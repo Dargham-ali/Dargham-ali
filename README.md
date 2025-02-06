@@ -19,7 +19,7 @@
 - ⚡ Helping Others & Sharing Knowledge 
 
 ## Connect with Me 🌐
-- LinkedIn: https://www.linkedin.com/in/dhur
+- LinkedIn: https://www.linkedin.com/in/dhurgham-ali-000377325/
 - GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
 - Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
