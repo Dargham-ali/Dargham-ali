@@ -2,9 +2,9 @@
 # Hi there, I'm Durgham Ali! 👋
 
 ## About Me
-I'm a passionate Frontend Developer with a background in radiology and ultrasound. I enjoy coding, problems solving,
- and constantly learning new technologies to improve my skills. My journey in programming started with **C++**,
- and now I'm focused on **JavaScript** and **React**.
+ I'm a passionate Frontend Developer with a background in radiology and ultrasound. I enjoy coding, problems solving,
+ and constantly learning new technologies to improve my skills. My journey in programming started with C++,
+ and now I'm focused on React.
 
 ## Skills 🚀
 - HTML, CSS, JavaScript
