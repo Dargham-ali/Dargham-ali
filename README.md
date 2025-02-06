@@ -24,7 +24,8 @@
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
 ## Let's Collaborate! 🤝
-I'm open to new opportunities, collaborations, and discussions. If you're working on something exciting, feel free to reach out!
+I'm open to new opportunities, collaborations, and discussions. If you're working on something exciting,
+ feel free to reach out!
 
 ---
 *Thanks for visiting my profile! Keep coding and keep growing!* 🚀
