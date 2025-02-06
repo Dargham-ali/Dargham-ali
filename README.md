@@ -1,5 +1,5 @@
 ```markdown
-# Hi there, I'm Durgham Ali! 👋
+# Hi there, I'm Dargham Ali! 👋
 
 ## About Me
  I'm a passionate Frontend Developer with a background in radiology and ultrasound. I enjoy coding, problems solving,
