@@ -19,7 +19,7 @@
 - ⚡ Helping Others & Sharing Knowledge 
 
 ## Connect with Me 🌐
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Your Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dhur))
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
